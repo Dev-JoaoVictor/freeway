@@ -12,7 +12,7 @@ let somDaColisao;
 let somDoPonto;
 
 function preload(){
-  imagemDaEstrada = loadImage("imagens/estrada.png");
+  imagemDaEstrada = loadImage("img/estrada.png");
   imagemDoAtor = loadImage("img/ator-1.png");
   imagemCarro = loadImage("img/carro-1.png");
   imagemCarro2 = loadImage("img/carro-2.png");

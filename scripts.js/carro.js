@@ -2,7 +2,7 @@
 
 let xCarros = [600, 600, 600, 600, 600, 600];
 let yCarros = [40, 96, 150, 210, 270, 318];
-let velocidadeCarros = [2, 2.7, 3.4, 4.5, 3.4, 2.8];
+let velocidadeCarros = [2, 2.7, 3.4, 4.5, 3.4, 2.3];
 let comprimentoCarro = 50;
 let alturaCarro = 40;
 
